@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Exercises in IT labbing with a goal of staying up to date with changes in technology. 
 
-### More Information
+This site may or may not end up being used as I have opportunity, but intent will be to document progress related to [https://github.com/clayshek/homelab-monorepo](https://github.com/clayshek/homelab-monorepo).
 
-A place to include any other types of information that you'd like to include about yourself.
+Blog hosted on GitHub Pages with help from [https://github.com/barryclark/jekyll-now ](https://github.com/barryclark/jekyll-now)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+clay -at- clayshekleton -dot- com
