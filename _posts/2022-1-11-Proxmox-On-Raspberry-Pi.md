@@ -2,6 +2,7 @@
 layout: post
 title: Proxmox on Raspberry Pi
 tags: proxmox raspberrypi homelab arm64 pimox7
+excerpt_separator: <!--more-->
 ---
 
 ## **What**
@@ -9,6 +10,7 @@ tags: proxmox raspberrypi homelab arm64 pimox7
 
 ## **Why**
 * Run container, or even VM, [ARM](https://en.wikipedia.org/wiki/ARM_architecture) workloads that always need to be running in a home lab environment
+<!--more-->
 * Low power consumption (compared to traditional server hardware)
 * Simplicity & Familiarity - Another good platform solution for this would be [k3s](https://k3s.io/). However, I personally know Proxmox (my home lab hypervisor of choice), so the learning curve is low. K3s / K8s is on my list of technologies to learn, and this for me can be achieved more effeciently nesting on top of Proxmox
 * Capability - this solution allows me to integrate Terraform and Ansible for provisioning and configuration, similar to how I've done prior with https://github.com/clayshek/homelab-monorepo 
