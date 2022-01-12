@@ -5,18 +5,15 @@ tags: proxmox raspberrypi homelab arm64 pimox7
 ---
 
 ## **What**
-
 * [Proxmox VE](https://www.proxmox.com/en/proxmox-ve) virtualization cluster on Raspberry Pi nodes. Some steps custom to my setup.
 
 ## **Why**
-
 * Run container, or even VM, [ARM](https://en.wikipedia.org/wiki/ARM_architecture) workloads that always need to be running in a home lab environment
 * Low power consumption (compared to traditional server hardware)
 * Simplicity & Familiarity - Another good platform solution for this would be [k3s](https://k3s.io/). However, I personally know Proxmox (my home lab hypervisor of choice), so the learning curve is low. K3s / K8s is on my list of technologies to learn, and this for me can be achieved more effeciently nesting on top of Proxmox
 * Capability - this solution allows me to integrate Terraform and Ansible for provisioning and configuration, similar to how I've done prior with https://github.com/clayshek/homelab-monorepo 
 
 ## **How**
-
 As Proxmox doesn't natively support the ARM processor architecture, will be using https://github.com/pimox/pimox7 to install latest version of Proxmox VE on Raspberry Pi 4
 
 ### Ras Pi Setup:
