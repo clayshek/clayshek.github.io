@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Proxmox on Raspberry Pi
+tags: proxmox raspberrypi homelab arm64 pimox7
 ---
 
 ## **What**
