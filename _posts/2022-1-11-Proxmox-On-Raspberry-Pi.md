@@ -6,7 +6,7 @@ excerpt_separator: <!--more-->
 ---
 
 ## **What**
-* [Proxmox VE](https://www.proxmox.com/en/proxmox-ve) virtualization cluster on Raspberry Pi nodes. Some steps custom to my setup.
+* [Proxmox VE](https://www.proxmox.com/en/proxmox-ve) virtualization cluster on Raspberry Pi nodes, with some steps custom to my setup.
 
 ## **Why**
 * Run container, or even VM, [ARM](https://en.wikipedia.org/wiki/ARM_architecture) workloads that always need to be running in a home lab environment
