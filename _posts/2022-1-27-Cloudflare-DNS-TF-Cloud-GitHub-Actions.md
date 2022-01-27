@@ -37,8 +37,8 @@ An alternative approach to the above would be a [VCS integrated TF Cloud Workspa
 Personally prefer the API driven workspace, enabling all config, including API token secret, to live in GitHub.
 
 ### References: 
-* https://learn.hashicorp.com/tutorials/terraform/github-actions
-* https://learn.hashicorp.com/collections/terraform/cloud-get-started
-* https://registry.terraform.io/providers/cloudflare/cloudflare/latest/docs
-* https://blog.cloudflare.com/getting-started-with-terraform-and-cloudflare-part-1/ 
-* https://brendanthompson.com/posts/2021/09/triggering-terraform-cloud-runs-from-github
+* [https://learn.hashicorp.com/tutorials/terraform/github-actions](https://learn.hashicorp.com/tutorials/terraform/github-actions)
+* [https://learn.hashicorp.com/collections/terraform/cloud-get-started](https://learn.hashicorp.com/collections/terraform/cloud-get-started)
+* [https://registry.terraform.io/providers/cloudflare/cloudflare/latest/docs](https://registry.terraform.io/providers/cloudflare/cloudflare/latest/docs)
+* [https://blog.cloudflare.com/getting-started-with-terraform-and-cloudflare-part-1/](https://blog.cloudflare.com/getting-started-with-terraform-and-cloudflare-part-1/)
+* [https://brendanthompson.com/posts/2021/09/triggering-terraform-cloud-runs-from-github](https://brendanthompson.com/posts/2021/09/triggering-terraform-cloud-runs-from-github)
